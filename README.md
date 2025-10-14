@@ -1,7 +1,8 @@
 <html>
  <head>
   <!-- Link to your external CSS file -->
-       <link rel="stylesheet" href="Kahmoh/style.css" />
+       <link rel="stylesheet" href="Kahmoh/
+        style.css" />
  </head>
  <body>
 <h1>How to rent a house</h1>
