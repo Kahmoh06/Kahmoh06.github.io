@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
  <head>
   <!-- Link to your external CSS file -->
