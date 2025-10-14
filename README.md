@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-          <style>
-           body{background-color:linen;}
-           h1{color:maroon;
-              magin-left:40px;}
-           </style>
+       <link rel="stylesheet" href="style.css" />
  </head>
  <body>
 #kahmoh06.github.io
